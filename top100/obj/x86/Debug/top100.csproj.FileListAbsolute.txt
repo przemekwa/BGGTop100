@@ -1,0 +1,36 @@
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\bin\Debug\top100.exe
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\bin\Debug\top100.pdb
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\obj\x86\Debug\top100.Form1.resources
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\obj\x86\Debug\top100.Properties.Resources.resources
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\obj\x86\Debug\top100.exe
+C:\Documents and Settings\127356\Ustawienia lokalne\Dane aplikacji\Temporary Projects\top100\obj\x86\Debug\top100.pdb
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\top100.exe
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\top100.pdb
+d:\visual studio 2010\Projects\top100\top100\bin\Debug\top100.exe.config
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\top100.Form1.resources
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\top100.Properties.Resources.resources
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\visual studio 2010\Projects\top100\top100\bin\Debug\top100.exe
+d:\visual studio 2010\Projects\top100\top100\bin\Debug\top100.pdb
+d:\visual studio 2010\Projects\top100\top100\bin\Debug\top100.exe.manifest
+d:\visual studio 2010\Projects\top100\top100\bin\Debug\top100.application
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\top100.exe.manifest
+d:\visual studio 2010\Projects\top100\top100\obj\x86\Debug\top100.application
+D:\Dropbox\c#\Projects\top100\top100\bin\Debug\top100.exe.config
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.exe
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.pdb
+D:\Dropbox\c#\Projects\top100\top100\bin\Debug\top100.exe.manifest
+D:\Dropbox\c#\Projects\top100\top100\bin\Debug\top100.application
+D:\Dropbox\c#\Projects\top100\top100\bin\Debug\top100.exe
+D:\Dropbox\c#\Projects\top100\top100\bin\Debug\top100.pdb
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.csprojResolveAssemblyReference.cache
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.Form1.resources
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.Properties.Resources.resources
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.csproj.GenerateResource.Cache
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.exe.manifest
+D:\Dropbox\c#\Projects\top100\top100\obj\x86\Debug\top100.application

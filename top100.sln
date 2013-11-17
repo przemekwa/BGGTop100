@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top100", "top100\top100.csproj", "{22964E16-C24F-4582-B193-5142E95F272B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gra", "..\gra\gra\gra.csproj", "{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22964E16-C24F-4582-B193-5142E95F272B}.Debug|x86.ActiveCfg = Debug|x86
+		{22964E16-C24F-4582-B193-5142E95F272B}.Debug|x86.Build.0 = Debug|x86
+		{22964E16-C24F-4582-B193-5142E95F272B}.Release|x86.ActiveCfg = Release|x86
+		{22964E16-C24F-4582-B193-5142E95F272B}.Release|x86.Build.0 = Release|x86
+		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Debug|x86.ActiveCfg = Debug|x86
+		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Debug|x86.Build.0 = Debug|x86
+		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Release|x86.ActiveCfg = Release|x86
+		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
