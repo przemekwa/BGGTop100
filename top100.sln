@@ -1,24 +1,34 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "top100", "top100\top100.csproj", "{22964E16-C24F-4582-B193-5142E95F272B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gra", "..\gra\gra\gra.csproj", "{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoardGameGeekApi", "BoardGameGeekApi\BoardGameGeekApi.csproj", "{52C99ABC-DFCD-4773-B215-540E9370A954}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22964E16-C24F-4582-B193-5142E95F272B}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{22964E16-C24F-4582-B193-5142E95F272B}.Debug|x86.ActiveCfg = Debug|x86
 		{22964E16-C24F-4582-B193-5142E95F272B}.Debug|x86.Build.0 = Debug|x86
+		{22964E16-C24F-4582-B193-5142E95F272B}.Release|Any CPU.ActiveCfg = Release|x86
 		{22964E16-C24F-4582-B193-5142E95F272B}.Release|x86.ActiveCfg = Release|x86
 		{22964E16-C24F-4582-B193-5142E95F272B}.Release|x86.Build.0 = Release|x86
-		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Debug|x86.ActiveCfg = Debug|x86
-		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Debug|x86.Build.0 = Debug|x86
-		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Release|x86.ActiveCfg = Release|x86
-		{53FE9FC8-3B7A-4136-ABE4-06FDD9ED1F15}.Release|x86.Build.0 = Release|x86
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Debug|x86.Build.0 = Debug|Any CPU
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Release|x86.ActiveCfg = Release|Any CPU
+		{52C99ABC-DFCD-4773-B215-540E9370A954}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\bin\Debug\BoardGameGeekApi.dll
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\bin\Debug\BoardGameGeekApi.pdb
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\bin\Debug\HtmlAgilityPack.dll
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\bin\Debug\HtmlAgilityPack.pdb
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\bin\Debug\HtmlAgilityPack.xml
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\obj\Debug\BoardGameGeekApi.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\obj\Debug\BoardGameGeekApi.dll
+D:\Visual Studio 2010\Projects\BGGTop100\BoardGameGeekApi\obj\Debug\BoardGameGeekApi.pdb
