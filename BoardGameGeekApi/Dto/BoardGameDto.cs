@@ -10,5 +10,6 @@ namespace BoardGameGeekApi.Dto
     {
         public string Name { get; set; }
         public short Rank { get; set; }
+        public string Year { get; set; }
     }
 }

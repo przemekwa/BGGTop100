@@ -411,174 +411,6 @@ window.onload = start;
 	<div class='bggstore_slides'>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/dream-islands-package-trip-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2940951_lg_small.jpg?v=1470837905"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/dream-islands-package-trip-promo">Dream Islands: Package Trip Promo</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/happy-pigs-penguins"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3098547_small.png?v=1468438243"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/happy-pigs-penguins">Happy Pigs: Penguins</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/alpaca-pacapaca"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/alpaca_small.jpg?v=1455654435"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/alpaca-pacapaca">Alpaca Pakapaka</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$22.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/the-big-book-of-madness-mime-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2694509_lg_small.jpg?v=1468439084"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/the-big-book-of-madness-mime-promo">The Big Book of Madness: Mime Promo</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-new-power-tiles"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_tiles_small.jpeg?v=1471370501"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-new-power-tiles">Kemet: New Power Tiles</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-titans-storage-bags"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Cyclades_Titans_small.JPG?v=1467579198"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-titans-storage-bags">Cyclades: Titans - Silk Storage Bags</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/heroes-of-normandie-bill-furlong-siegfried"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2083974_small.jpg?v=1456769912"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/heroes-of-normandie-bill-furlong-siegfried">Heroes of Normandie: Bill Furlong &amp; Siegfried</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/west-of-africa-extra"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/West_of_Africa_small.JPG?v=1466436147"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/west-of-africa-extra">West of Africa Extra</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/translucent-plastic-gems-12-mm"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Cubes_3d1d0624-52ad-4a19-a234-f2fd7a47267e_small.jpg?v=1446624584"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/translucent-plastic-gems-12-mm">Translucent Plastic Gems - 12 mm - Bag of 50</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-manticore"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Cyclades__Mantic_4f705c8810430_small.jpeg?v=1370736280"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-manticore">Cyclades: Manticore</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-silk-storage-bag"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_Creature_Bag_small.JPG?v=1470839669"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-silk-storage-bag">Kemet: Silk Storage Bag</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/rattlebones-prototyping-dice"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/IMG_0701_small.JPG?v=1455225639"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/rattlebones-prototyping-dice">&quot;Rattlebones&quot; Prototyping Dice</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/haus-der-sonne-lava-tiles-mini-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939093_lg_small.jpg?v=1470838099"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/haus-der-sonne-lava-tiles-mini-expansion">Haus Der Sonne: Lava Tiles Mini Expansion</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack-3-tower"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2960283_md_small.jpg?v=1471294511"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack-3-tower">Good Cop Bad Cop: Equipment Pack #3 - Tower</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/camel-up-the-referee-camel"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/CamelUp_small.JPG?v=1466436266"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/camel-up-the-referee-camel">Camel Up: The Referee Camel</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-monuments-of-the-u-s"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2858668_md_small.jpg?v=1468267064"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-monuments-of-the-u-s">Quadropolis: Monuments of the U.S.</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/cop-bad-cop-equipment-pack-2-serve"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2960276_md_small.jpg?v=1471294367"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/cop-bad-cop-equipment-pack-2-serve">Good Cop Bad Cop: Equipment Pack #2 - Serve</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/star-trek-frontiers-seven-of-nine"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3090692_small.jpg?v=1470924964"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/star-trek-frontiers-seven-of-nine">Star Trek: Frontiers – Seven of Nine</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/barony-silk-storage-bags"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Barony_bags_small.JPG?v=1468266181"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/barony-silk-storage-bags">Barony: Silk Storage Bags</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/antarctica-penguin-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939098_lg_small.jpg?v=1470837720"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/antarctica-penguin-expansion">Antarctica: Penguin Expansion</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/shadows-over-normandie-bens-game-shop"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2846111_lg_small.jpg?v=1466435770"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/shadows-over-normandie-bens-game-shop">Shadows over Normandie: Ben&#039;s Game Shop</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2959783_md_small.jpg?v=1471294617"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack">Good Cop Bad Cop: Equipment Pack #1 - Protect</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-usine-high-tech"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3097122_small.png?v=1468436440"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-usine-high-tech">Quadropolis: High-Tech Factory</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/ancient-terrible-things-undead-wizard-promo-card"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2604696_md_small.jpg?v=1462394593"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/ancient-terrible-things-undead-wizard-promo-card">Ancient Terrible Things: Undead Wizard Promo Card</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
 				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/wh1ch-gam3"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2940830_small.jpg?v=1470839312"></a></div>
 				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/wh1ch-gam3">WH1CH GAM3</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
@@ -586,15 +418,8 @@ window.onload = start;
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/counter-magazine-issue-73-august-2016"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Counter_Online_-_Issue_73-1_small.jpg?v=1472056451"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/counter-magazine-issue-73-august-2016">Counter Magazine Issue #73 - August 2016</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/my-village-vagrants-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939090_lg_small.jpg?v=1470838530"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/my-village-vagrants-expansion">My Village: Vagrants Expansion</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/heroes-of-normandie-bill-furlong-siegfried"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2083974_small.jpg?v=1456769912"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/heroes-of-normandie-bill-furlong-siegfried">Heroes of Normandie: Bill Furlong &amp; Siegfried</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
@@ -607,16 +432,23 @@ window.onload = start;
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/sea-of-clouds-kitty-unicorn-love-ray"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/IMG_6735_small.JPG?v=1468441593"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/sea-of-clouds-kitty-unicorn-love-ray">Sea of Clouds: Kitty, Unicorn, Love Ray</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2959783_md_small.jpg?v=1471294617"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack">Good Cop Bad Cop: Equipment Pack #1 - Protect</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/titanium-wars-kraken"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2209726_small.png?v=1470926049"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/titanium-wars-kraken">Titanium Wars: Kraken</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-manticore"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Cyclades__Mantic_4f705c8810430_small.jpeg?v=1370736280"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-manticore">Cyclades: Manticore</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/dream-islands-package-trip-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2940951_lg_small.jpg?v=1470837905"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/dream-islands-package-trip-promo">Dream Islands: Package Trip Promo</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
 			<div class='bggstore_widget_slide'>
@@ -628,15 +460,64 @@ window.onload = start;
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/carson-city-teacher-starting-tile"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Untitled-1_d4894d16-6b57-4e1b-a4ba-d8817d64cdc8_small.jpg?v=1468607674"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/carson-city-teacher-starting-tile">Carson City: Teacher &amp; Town Hall</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/i-hate-zombies-geek-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/I_Hate_Zombies_-_Human_Geek_Promo_small.jpg?v=1471295339"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/i-hate-zombies-geek-promo">I Hate Zombies: Geek Promo</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-tuck-boxes"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_Tuck_boxes_2_small.JPG?v=1470839754"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-tuck-boxes">Kemet: Tuck Boxes</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/imperial-settlers-council-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939088_lg_small.jpg?v=1470838379"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/imperial-settlers-council-promo">Imperial Settlers: Council Promo</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/7-wonders-duel-the-messe-essen"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2703327_small.png?v=1466435960"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/7-wonders-duel-the-messe-essen">7 Wonders: Duel – The Messe Essen</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/star-trek-frontiers-seven-of-nine"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3090692_small.jpg?v=1470924964"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/star-trek-frontiers-seven-of-nine">Star Trek: Frontiers – Seven of Nine</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/happy-pigs-penguins"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3098547_small.png?v=1468438243"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/happy-pigs-penguins">Happy Pigs: Penguins</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-monuments-of-the-u-s"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2858668_md_small.jpg?v=1468267064"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-monuments-of-the-u-s">Quadropolis: Monuments of the U.S.</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-skills-and-black-power-tile-for-ta-seti"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_tiles_1_small.jpeg?v=1471370525"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-skills-and-black-power-tile-for-ta-seti">Kemet: Skills and Black Power Tile For Ta-Seti</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/alpaca-pacapaca"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/alpaca_small.jpg?v=1455654435"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/alpaca-pacapaca">Alpaca Pakapaka</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$22.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-titans-storage-bags"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Cyclades_Titans_small.JPG?v=1467579198"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/cyclades-titans-storage-bags">Cyclades: Titans - Silk Storage Bags</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
@@ -649,15 +530,50 @@ window.onload = start;
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/wooden-meeples-bag-of-10"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Meeples_All_small.jpg?v=1460406853"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/wooden-meeples-bag-of-10">Wooden Meeples - Bag of 10</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$4.00</div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/haus-der-sonne-lava-tiles-mini-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939093_lg_small.jpg?v=1470838099"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/haus-der-sonne-lava-tiles-mini-expansion">Haus Der Sonne: Lava Tiles Mini Expansion</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/colt-express-rock-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2940936_lg_small.jpg?v=1470837563"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/colt-express-rock-promo">Colt Express: Rock Promo</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/antarctica-penguin-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939098_lg_small.jpg?v=1470837720"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/antarctica-penguin-expansion">Antarctica: Penguin Expansion</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack-3-tower"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2960283_md_small.jpg?v=1471294511"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/good-cop-bad-cop-equipment-pack-3-tower">Good Cop Bad Cop: Equipment Pack #3 - Tower</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-silk-storage-bag"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_Creature_Bag_small.JPG?v=1470839669"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-silk-storage-bag">Kemet: Silk Storage Bag</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/west-of-africa-extra"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/West_of_Africa_small.JPG?v=1466436147"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/west-of-africa-extra">West of Africa Extra</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/ancient-terrible-things-undead-wizard-promo-card"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2604696_md_small.jpg?v=1462394593"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/ancient-terrible-things-undead-wizard-promo-card">Ancient Terrible Things: Undead Wizard Promo Card</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/scythe-encounter-promo-pack-2"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3113924_lg_small.jpg?v=1470840701"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/scythe-encounter-promo-pack-2">Scythe: Encounter Promo Pack #2</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
@@ -670,44 +586,65 @@ window.onload = start;
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-tuck-boxes"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_Tuck_boxes_2_small.JPG?v=1470839754"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-tuck-boxes">Kemet: Tuck Boxes</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/rattlebones-prototyping-dice"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/IMG_0701_small.JPG?v=1455225639"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/rattlebones-prototyping-dice">&quot;Rattlebones&quot; Prototyping Dice</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/barony-silk-storage-bags"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Barony_bags_small.JPG?v=1468266181"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/barony-silk-storage-bags">Barony: Silk Storage Bags</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/i-hate-zombies-geek-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/I_Hate_Zombies_-_Human_Geek_Promo_small.jpg?v=1471295339"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/i-hate-zombies-geek-promo">I Hate Zombies: Geek Promo</a></div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/imperial-settlers-council-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939088_lg_small.jpg?v=1470838379"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/imperial-settlers-council-promo">Imperial Settlers: Council Promo</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-new-power-tiles"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_tiles_small.jpeg?v=1471370501"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-new-power-tiles">Kemet: New Power Tiles</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/shadows-over-normandie-bens-game-shop"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2846111_lg_small.jpg?v=1466435770"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/shadows-over-normandie-bens-game-shop">Shadows over Normandie: Ben&#039;s Game Shop</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/sea-of-clouds-kitty-unicorn-love-ray"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/IMG_6735_small.JPG?v=1468441593"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/sea-of-clouds-kitty-unicorn-love-ray">Sea of Clouds: Kitty, Unicorn, Love Ray</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/cop-bad-cop-equipment-pack-2-serve"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2960276_md_small.jpg?v=1471294367"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/cop-bad-cop-equipment-pack-2-serve">Good Cop Bad Cop: Equipment Pack #2 - Serve</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/translucent-plastic-gems-12-mm"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Cubes_3d1d0624-52ad-4a19-a234-f2fd7a47267e_small.jpg?v=1446624584"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/translucent-plastic-gems-12-mm">Translucent Plastic Gems - 12 mm - Bag of 50</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
 			</center>
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/7-wonders-duel-the-messe-essen"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2703327_small.png?v=1466435960"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/7-wonders-duel-the-messe-essen">7 Wonders: Duel – The Messe Essen</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-skills-and-black-power-tile-for-ta-seti"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Kemet_tiles_1_small.jpeg?v=1471370525"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/kemet-skills-and-black-power-tile-for-ta-seti">Kemet: Skills and Black Power Tile For Ta-Seti</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/scythe-encounter-promo-pack-2"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3113924_lg_small.jpg?v=1470840701"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/scythe-encounter-promo-pack-2">Scythe: Encounter Promo Pack #2</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/medieval-academy-expansion-galanttry-and-magic"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2289547_small.jpg?v=1468438910"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/medieval-academy-expansion-galanttry-and-magic">Medieval Academy: Expansion «Galanttry» and «Magic»</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/caverna-water-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2712362_small.jpg?v=1462393551"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/caverna-water-expansion">Caverna: Water Expansion</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$8.00</div>
 			</center>
 		</div>
 			<div class='bggstore_widget_slide'>
@@ -719,13 +656,6 @@ window.onload = start;
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/metal-plastic-cubes-8-mm"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/metal_small.jpg?v=1446625040"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/metal-plastic-cubes-8-mm">Metal Cubes - 8 mm - Bag of 30</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
-			</center>
-		</div>
-			<div class='bggstore_widget_slide'>
-			<center>
 				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/t-i-m-e-stories-beacon-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939091_lg_small.jpg?v=1470838965"></a></div>
 				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/t-i-m-e-stories-beacon-promo">T.I.M.E Stories: Beacon Promo</a></div>
 				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
@@ -733,9 +663,79 @@ window.onload = start;
 		</div>
 			<div class='bggstore_widget_slide'>
 			<center>
-				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/caverna-water-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2712362_small.jpg?v=1462393551"></a></div>
-				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/caverna-water-expansion">Caverna: Water Expansion</a></div>
-				<div class='bggstore_widget_element bggstore_widget_price'>$8.00</div>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/titanium-wars-kraken"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2209726_small.png?v=1470926049"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/titanium-wars-kraken">Titanium Wars: Kraken</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/wooden-meeples-bag-of-10"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Meeples_All_small.jpg?v=1460406853"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/wooden-meeples-bag-of-10">Wooden Meeples - Bag of 10</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$4.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-usine-high-tech"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic3097122_small.png?v=1468436440"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/quadropolis-usine-high-tech">Quadropolis: High-Tech Factory</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/my-village-vagrants-expansion"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2939090_lg_small.jpg?v=1470838530"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/my-village-vagrants-expansion">My Village: Vagrants Expansion</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/carson-city-teacher-starting-tile"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Untitled-1_d4894d16-6b57-4e1b-a4ba-d8817d64cdc8_small.jpg?v=1468607674"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/carson-city-teacher-starting-tile">Carson City: Teacher &amp; Town Hall</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/metal-plastic-cubes-8-mm"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/metal_small.jpg?v=1446625040"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/metal-plastic-cubes-8-mm">Metal Cubes - 8 mm - Bag of 30</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$6.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/colt-express-rock-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2940936_lg_small.jpg?v=1470837563"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/colt-express-rock-promo">Colt Express: Rock Promo</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/camel-up-the-referee-camel"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/CamelUp_small.JPG?v=1466436266"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/camel-up-the-referee-camel">Camel Up: The Referee Camel</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/counter-magazine-issue-73-august-2016"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/Counter_Online_-_Issue_73-1_small.jpg?v=1472056451"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/counter-magazine-issue-73-august-2016">Counter Magazine Issue #73 - August 2016</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/the-big-book-of-madness-mime-promo"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2694509_lg_small.jpg?v=1468439084"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/the-big-book-of-madness-mime-promo">The Big Book of Madness: Mime Promo</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$3.00</div>
+			</center>
+		</div>
+			<div class='bggstore_widget_slide'>
+			<center>
+				<div class='bggstore_widget_element'><a target='_blank' href="http://boardgamegeekstore.com/products/medieval-academy-expansion-galanttry-and-magic"><img src="https://cdn.shopify.com/s/files/1/0220/1594/products/pic2289547_small.jpg?v=1468438910"></a></div>
+				<div class='bggstore_widget_element bggstore_widget_title'><a target='_blank' href="http://boardgamegeekstore.com/products/medieval-academy-expansion-galanttry-and-magic">Medieval Academy: Expansion «Galanttry» and «Magic»</a></div>
+				<div class='bggstore_widget_element bggstore_widget_price'>$5.00</div>
 			</center>
 		</div>
 		</div>
@@ -770,12 +770,12 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
-															<a  href="/boardgame/148261/seafall"   >SeaFall</a>
+															<a  href="/boardgame/121921/robinson-crusoe-adventures-cursed-island"   >Robinson Crusoe: Adventures on the Cursed Island</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/121921/robinson-crusoe-adventures-cursed-island"   >Robinson Crusoe: Adventures on the Cursed Island</a>
+															<a  href="/boardgame/148261/seafall"   >SeaFall</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
@@ -785,7 +785,7 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/155821/inis"   >Inis</a>
+															<a  href="/boardgame/205059/mansions-madness-second-edition"   >Mansions of Madness: Second Edition</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
@@ -795,7 +795,7 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/205059/mansions-madness-second-edition"   >Mansions of Madness: Second Edition</a>
+															<a  href="/boardgame/155821/inis"   >Inis</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
@@ -810,17 +810,7 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
-															<a  href="/boardgame/177736/feast-odin"   >A Feast for Odin</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/161533/lisboa"   >Lisboa</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/187645/star-wars-rebellion"   >Star Wars: Rebellion</a>
+															<a  href="/boardgame/205637/arkham-horror-card-game"   >Arkham Horror: The Card Game</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
@@ -830,32 +820,22 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
-															<a  href="/boardgame/205637/arkham-horror-card-game"   >Arkham Horror: The Card Game</a>
+															<a  href="/boardgame/177736/feast-odin"   >A Feast for Odin</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/172047/others-7-sins"   >The Others: 7 Sins</a>
+															<a  href="/boardgame/207379/skyways"   >Skyways</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
-															<a  href="/boardgame/206803/capital"   >Capital</a>
+															<a  href="/boardgame/187645/star-wars-rebellion"   >Star Wars: Rebellion</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/204886/suspicion"   >Suspicion</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgameexpansion/200544/tiny-epic-galaxies-beyond-black"   >Tiny Epic Galaxies: Beyond the Black</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/163967/tiny-epic-galaxies"   >Tiny Epic Galaxies</a>
+															<a  href="/boardgame/187653/covert"   >Covert</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
@@ -865,12 +845,32 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/161936/pandemic-legacy-season-1"   >Pandemic Legacy: Season 1</a>
+															<a  href="/boardgame/161533/lisboa"   >Lisboa</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
-															<a  href="/boardgame/136955/hands-sea"   >Hands in the Sea</a>
+															<a  href="/boardgame/172047/others-7-sins"   >The Others: 7 Sins</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/163967/tiny-epic-galaxies"   >Tiny Epic Galaxies</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/188834/secret-hitler"   >Secret Hitler</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgameexpansion/200544/tiny-epic-galaxies-beyond-black"   >Tiny Epic Galaxies: Beyond the Black</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/170216/blood-rage"   >Blood Rage</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
@@ -880,62 +880,42 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
+															<a  href="/boardgame/204886/suspicion"   >Suspicion</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/161936/pandemic-legacy-season-1"   >Pandemic Legacy: Season 1</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/192274/bethel-woods"   >Bethel Woods</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/170416/vast-crystal-caverns"   >Vast: The Crystal Caverns</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
 															<a  href="/boardgame/182028/through-ages-new-story-civilization"   >Through the Ages: A New Story of Civilization</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/170216/blood-rage"   >Blood Rage</a>
+															<a  href="/boardgame/120677/terra-mystica"   >Terra Mystica</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/170416/vast-crystal-caverns"   >Vast: The Crystal Caverns</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
 						<td>
 															<a  href="/boardgame/104162/descent-journeys-dark-second-edition"   >Descent: Journeys in the Dark (Second Edition)</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/207379/skyways"   >Skyways</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
 															<a  href="/boardgame/146021/eldritch-horror"   >Eldritch Horror</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/120677/terra-mystica"   >Terra Mystica</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/192274/bethel-woods"   >Bethel Woods</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/55690/kingdom-death-monster"   >Kingdom Death: Monster</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/204027/cottage-garden"   >Cottage Garden</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/125153/gallerist"   >The Gallerist</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/12333/twilight-struggle"   >Twilight Struggle</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
@@ -950,42 +930,32 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
-															<a  href="/boardgame/31260/agricola"   >Agricola</a>
+															<a  href="/boardgame/136955/hands-sea"   >Hands in the Sea</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/176083/hit-z-road"   >Hit Z Road</a>
+															<a  href="/boardgame/55690/kingdom-death-monster"   >Kingdom Death: Monster</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/173346/7-wonders-duel"   >7 Wonders: Duel</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/12333/twilight-struggle"   >Twilight Struggle</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/206803/capital"   >Capital</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
 						<td>
 															<a  href="/boardgame/172386/mombasa"   >Mombasa</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/200954/fields-green"   >Fields of Green</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/188834/secret-hitler"   >Secret Hitler</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/77423/lord-rings-card-game"   >The Lord of the Rings: The Card Game</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/175914/food-chain-magnate"   >Food Chain Magnate</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/129437/legendary-marvel-deck-building-game"   >Legendary: A Marvel Deck Building Game</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
@@ -995,22 +965,52 @@ var car = new SimpleCarousel.GEEK( $('simpleCarousel'), $$('#simpleCarousel div.
 					</tr>
 									<tr bgcolor='#E5E5E5'>
 						<td>
-															<a  href="/boardgame/178900/codenames"   >Codenames</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#FFFFFF'>
-						<td>
-															<a  href="/boardgame/102794/caverna-cave-farmers"   >Caverna: The Cave Farmers</a>
-																					</td>
-					</tr>
-									<tr bgcolor='#E5E5E5'>
-						<td>
-															<a  href="/boardgame/173346/7-wonders-duel"   >7 Wonders: Duel</a>
+															<a  href="/boardgame/175914/food-chain-magnate"   >Food Chain Magnate</a>
 																					</td>
 					</tr>
 									<tr bgcolor='#FFFFFF'>
 						<td>
 															<a  href="/boardgame/170771/sword-sorcery"   >Sword & Sorcery</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/129437/legendary-marvel-deck-building-game"   >Legendary: A Marvel Deck Building Game</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/31260/agricola"   >Agricola</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/102794/caverna-cave-farmers"   >Caverna: The Cave Farmers</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/77423/lord-rings-card-game"   >The Lord of the Rings: The Card Game</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/125153/gallerist"   >The Gallerist</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/178900/codenames"   >Codenames</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#E5E5E5'>
+						<td>
+															<a  href="/boardgame/111799/cuba-libre"   >Cuba Libre</a>
+																					</td>
+					</tr>
+									<tr bgcolor='#FFFFFF'>
+						<td>
+															<a  href="/boardgame/176083/hit-z-road"   >Hit Z Road</a>
 																					</td>
 					</tr>
 							</table>

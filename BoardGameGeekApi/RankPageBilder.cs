@@ -20,9 +20,7 @@ namespace BoardGameGeekApi
 
         public IEnumerable<BoardGameDto> Get(short first, short last)
         {
-
-
-            return null;
+           return  this.rankPageParser.Parse(first);
         }
     }
 }

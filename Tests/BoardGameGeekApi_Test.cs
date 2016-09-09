@@ -28,6 +28,7 @@ namespace Tests
             var result = api.GetRank(1, 100).FirstOrDefault();
 
             Assert.NotEmpty(result.Name);
+            Assert.NotEmpty(result.Year);
             Assert.Equal(1, result.Rank);
         }
 
@@ -35,13 +36,15 @@ namespace Tests
         [InlineData(1,300)]
         [InlineData(100,400)]
         [InlineData(150,450)]
-        public void Get_Range_Rank_Test(object first, object last)
+        public void Get_Range_Rank_Test(short first, short last)
         {
             var api = new BoardGameRank();
 
             var result = api.GetRank((short)first, (short)last);
 
-            Assert.Equal(100, result.Count());
+            Assert.Equal(first, result.First().Rank);
+            Assert.Equal(last, result.Last().Rank);
+
         }
     }
 }
