@@ -25,10 +25,11 @@ namespace Tests
         {
             var api = new BoardGameRank();
 
-            var result = api.GetRank(1, 100).FirstOrDefault();
+            var result = api.GetRank(1, 200).FirstOrDefault();
 
             Assert.NotEmpty(result.Name);
             Assert.NotEmpty(result.Year);
+            Assert.NotEmpty(result.ImageUrl);
             Assert.Equal(1, result.Rank);
         }
 
