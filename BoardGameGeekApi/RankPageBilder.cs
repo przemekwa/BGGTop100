@@ -20,7 +20,17 @@ namespace BoardGameGeekApi
 
         public IEnumerable<BoardGameDto> Get(short first, short last)
         {
-           return  this.rankPageParser.Parse(first);
+            short firstPage = (short)(Math.Round(first/100d, MidpointRounding.AwayFromZero) + 1);
+            short lastPage = (short)Math.Round(last / 100d, MidpointRounding.AwayFromZero);
+
+            var result = new List<BoardGameDto>();
+
+            for (short i = firstPage ; i < lastPage; i++)
+            {
+                result.AddRange(this.rankPageParser.Parse(i));
+            }
+
+            return result.Skip(first-1).Take(last+1);
         }
     }
 }

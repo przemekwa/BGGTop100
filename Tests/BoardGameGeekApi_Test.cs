@@ -43,6 +43,7 @@ namespace Tests
             var result = api.GetRank((short)first, (short)last);
 
             Assert.Equal(first, result.First().Rank);
+
             Assert.Equal(last, result.Last().Rank);
 
         }
