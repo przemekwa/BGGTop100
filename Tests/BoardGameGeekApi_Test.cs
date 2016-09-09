@@ -30,6 +30,7 @@ namespace Tests
             Assert.NotEmpty(result.Name);
             Assert.NotEmpty(result.Year);
             Assert.NotEmpty(result.ImageUrl);
+            Assert.NotEmpty(result.GameUrl);
             Assert.Equal(1, result.Rank);
         }
 

@@ -12,5 +12,6 @@ namespace BoardGameGeekApi.Dto
         public short Rank { get; set; }
         public string Year { get; set; }
         public string ImageUrl { get; set; }
+        public string GameUrl { get; set; }
     }
 }

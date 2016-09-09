@@ -11,5 +11,6 @@ namespace BoardGameRankExplorer.Models
         public short Rank { get; set; }
         public string Year { get; set; }
         public string ImgUrl { get; set; }
+        public string GameUrl { get; set; }
     }
 }

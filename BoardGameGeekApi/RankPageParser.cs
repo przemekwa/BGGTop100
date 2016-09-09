@@ -35,7 +35,11 @@ namespace BoardGameGeekApi
 
                 var imgUrl = trTag.SelectSingleNode("td[@class='collection_thumbnail']/a/img").Attributes["src"].Value;
 
-                var name = trTag.SelectNodes("td")[2].SelectSingleNode("div/a").InnerText;
+                var nameAndUrl = trTag.SelectNodes("td")[2].SelectSingleNode("div/a");
+
+                var name = nameAndUrl.InnerText;
+
+                var gameUrl = nameAndUrl.Attributes["href"].Value;
 
                 var year = trTag.SelectNodes("td")[2].SelectSingleNode("div/span").InnerText;
 
@@ -44,7 +48,9 @@ namespace BoardGameGeekApi
                     Rank = short.Parse(rank),
                     Name = name,
                     Year = year.Substring(1,year.Length-2),
-                    ImageUrl = $"http:{imgUrl}" 
+                    ImageUrl = $"http:{imgUrl}",
+                    GameUrl = $"{URL}{gameUrl}",
+                    
                 });
             }
 
