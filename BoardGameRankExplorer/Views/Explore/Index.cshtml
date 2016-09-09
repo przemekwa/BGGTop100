@@ -1,0 +1,36 @@
+﻿@model IEnumerable<BoardGameRankExplorer.Models.BoardGameModel>
+@{
+
+    ViewBag.Title = "Index";
+}
+
+
+
+<h2>Index</h2>
+
+<table id="example" class="display" style="width:100%">
+    <thead>
+    <tr>
+        <th>Rank</th>
+        <th>Name</th>
+        <th>Year</th>
+    </tr>
+    </thead>
+
+    <tbody>
+
+
+        @foreach (var b in Model)
+        {
+            <tr>
+                <td>@b.Rank</td>
+                <td>@b.Name</td>
+                <td>@b.Year</td>
+            </tr>
+        }
+
+
+    </tbody>
+
+</table>
+
