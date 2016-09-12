@@ -48,7 +48,7 @@ namespace Tests
 
             Assert.Equal(first, result.First().Rank);
 
-             Assert.Equal(last, result.Last().Rank);
+            Assert.Equal(last, result.Last().Rank);
 
         }
     }
