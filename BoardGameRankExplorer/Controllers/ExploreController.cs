@@ -16,7 +16,14 @@ namespace BoardGameRankExplorer.Controllers
             var api = new BoardGameRank();
 
             var result =
-                api.GetRank(1, 200).Select(b => new BoardGameModel {Name = b.Name, Rank = b.Rank, Year = b.Year, ImgUrl = b.ImageUrl, GameUrl = b.GameUrl});
+                api.GetRank(1, 200).Select(b => new BoardGameModel
+                {
+                    Name = b.Name,
+                    Rank = b.Rank,
+                    Year = b.Year,
+                    ImgUrl = b.ImageUrl,
+                    GameUrl = b.GameUrl
+                });
             
             return View(result);
         }

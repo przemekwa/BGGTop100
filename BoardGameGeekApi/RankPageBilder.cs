@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.AccessControl;
 using System.Text;
 using System.Threading.Tasks;
 using BoardGameGeekApi.Dto;
@@ -20,17 +21,18 @@ namespace BoardGameGeekApi
 
         public IEnumerable<BoardGameDto> Get(short first, short last)
         {
-            short firstPage = (short)(Math.Round(first/100d, MidpointRounding.AwayFromZero) + 1);
-            short lastPage = (short)Math.Round(last / 100d, MidpointRounding.AwayFromZero);
-
             var result = new List<BoardGameDto>();
 
-            for (short i = firstPage ; i < lastPage; i++)
+            var f =(short) Math.Ceiling(first/100m);
+            
+
+            for (int i = f; i <= 3  ; i++)
             {
-                result.AddRange(this.rankPageParser.Parse(i));
+                result.AddRange(this.rankPageParser.Parse((short)i));
             }
 
-            return result.Skip(first-1).Take(last+1);
+            var count = (first-1)-(((f-1)*100)); 
+            return result.Skip(count).Take(last+1);
         }
     }
 }
