@@ -24,15 +24,17 @@ namespace BoardGameGeekApi
             var result = new List<BoardGameDto>();
 
             var f =(short) Math.Ceiling(first/100m);
+            var l =(short) Math.Ceiling(last/100m);
             
-
-            for (int i = f; i <= 3  ; i++)
+            for (int i = f; i <= l  ; i++)
             {
                 result.AddRange(this.rankPageParser.Parse((short)i));
             }
 
-            var count = (first-1)-(((f-1)*100)); 
-            return result.Skip(count).Take(last+1);
+            var count = first-1-(f-1)*100;
+            var count2 = last - first + 1;
+
+            return result.Skip(count).Take(count2);
         }
     }
 }

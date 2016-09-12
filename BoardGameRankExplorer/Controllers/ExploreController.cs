@@ -16,7 +16,7 @@ namespace BoardGameRankExplorer.Controllers
             var api = new BoardGameRank();
 
             var result =
-                api.GetRank(1, 200).Select(b => new BoardGameModel
+                api.GetRank(1, 100).Select(b => new BoardGameModel
                 {
                     Name = b.Name,
                     Rank = b.Rank,
