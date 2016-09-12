@@ -1,4 +1,4 @@
-﻿@model IEnumerable<BoardGameRankExplorer.Models.BoardGameModel>
+﻿@model BoardGameRankExplorer.Models.BoardGameModel
 @{
 
     ViewBag.Title = "Index";
@@ -6,7 +6,7 @@
 
 
 
-<h2>Index</h2>
+<h2>Rank from @Model.FirstRank to @Model.LastRank</h2>
 
 <table id="example" class="display" style="width:100%">
     <thead>
@@ -21,7 +21,7 @@
     <tbody>
 
 
-        @foreach (var b in Model)
+        @foreach (var b in Model.BoardGameCollection)
         {
             <tr>
                 <td>@b.Rank</td>

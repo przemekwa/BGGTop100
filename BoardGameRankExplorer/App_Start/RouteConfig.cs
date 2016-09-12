@@ -14,16 +14,17 @@ namespace BoardGameRankExplorer
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
-                name: "PageRangeApi2",
-                url: "{controller}/{action}/{last}",
-                defaults: new {controller = "Explore", action = "Range"}
-                );
+                name: "PageRangeApi",
+                url: "{controller}/{action}/{first}-{last}",
+                defaults: new {controller = "Explore", action = "Range"});
+
 
             routes.MapRoute(
-               name: "PageRangeApi",
-               url: "{controller}/{action}/{first}-{last}",
-               defaults: new { controller = "Explore", action = "Range" }
-           );
+                name: "PageRangeApi2",
+                url: "{controller}/{action}/{last}",
+                defaults: new {controller = "Explore", action = "Range"});
+            
+           
 
             routes.MapRoute(
                 name: "Default",
